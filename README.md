@@ -1,1 +1,1 @@
-# isba-biostatpharma.github.io
+# isba-biostatspharma.github.io
